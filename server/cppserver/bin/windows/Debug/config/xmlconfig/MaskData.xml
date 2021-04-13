@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <MaskData id="0.000000" name="面具" sort="0.000000" prefab="Mask_0" icon="RobotMask01" price="10000.000000" life="0.000000" speed="0.000000" effect="" />
+    <MaskData id="1.000000" name="面具" sort="1.000000" prefab="Mask_1" icon="RobotMask03" price="10000.000000" life="0.000000" speed="0.000000" effect="" />
+    <MaskData id="2.000000" name="面具" sort="2.000000" prefab="Mask_2" icon="RobotMask04" price="10000.000000" life="0.000000" speed="0.000000" effect="" />
+    <MaskData id="3.000000" name="面具" sort="3.000000" prefab="Mask_3" icon="RobotMask09" price="10000.000000" life="0.000000" speed="0.000000" effect="" />
+    <MaskData id="4.000000" name="面具" sort="4.000000" prefab="Mask_4" icon="RobotMask11" price="10000.000000" life="0.000000" speed="0.000000" effect="" />
+    <MaskData id="5.000000" name="面具" sort="5.000000" prefab="Mask_5" icon="RobotMask12" price="10000.000000" life="0.000000" speed="0.000000" effect="" />
+    <MaskData id="6.000000" name="面具" sort="6.000000" prefab="Mask_6" icon="RobotMask13" price="10000.000000" life="0.000000" speed="0.000000" effect="" />
+    <MaskData id="7.000000" name="面具" sort="7.000000" prefab="Mask_7" icon="RobotMask08" price="10000.000000" life="0.000000" speed="0.000000" effect="" />
+    <MaskData id="8.000000" name="面具" sort="8.000000" prefab="Mask_8" icon="RobotMask07" price="10000.000000" life="0.000000" speed="0.000000" effect="" />
+    <MaskData id="9.000000" name="面具" sort="9.000000" prefab="Mask_9" icon="RobotMask06" price="10000.000000" life="0.000000" speed="0.000000" effect="" />
+</root>

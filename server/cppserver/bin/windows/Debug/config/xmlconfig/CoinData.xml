@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <CoinData id="1.000000" name="金币" icon="coin2" />
+    <CoinData id="2.000000" name="金币" icon="coin3" />
+    <CoinData id="3.000000" name="金币" icon="coin4" />
+</root>

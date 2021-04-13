@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <EquipmentData id="0.000000" name="岗哨机枪1" sort="0.000000" prefab="SentryGun_0" icon="Equipment01_mesh" price="30000.000000" skill="10.000000" effect="释放一个岗哨机枪进行防卫" />
+    <EquipmentData id="1.000000" name="岗哨机枪2" sort="1.000000" prefab="SentryGun_1" icon="Equipment02_mesh" price="100000.000000" skill="10.000000" effect="释放一个岗哨机枪进行防卫" />
+    <EquipmentData id="2.000000" name="岗哨机枪3" sort="2.000000" prefab="SentryGun_2" icon="Equipment03_mesh" price="200000.000000" skill="10.000000" effect="释放一个岗哨机枪进行防卫" />
+    <EquipmentData id="3.000000" name="岗哨机枪4" sort="3.000000" prefab="SentryGun_3" icon="Equipment04_mesh" price="360000.000000" skill="10.000000" effect="释放一个岗哨机枪进行防卫" />
+    <EquipmentData id="4.000000" name="岗哨机枪5" sort="4.000000" prefab="SentryGun_4" icon="Equipment05_mesh" price="540000.000000" skill="10.000000" effect="释放一个岗哨机枪进行防卫" />
+    <EquipmentData id="5.000000" name="初级治疗器" sort="5.000000" prefab="HealingGen_0" icon="Equipment07_mesh" price="150000.000000" skill="11.000000" effect="治疗自己和附近的友军" />
+    <EquipmentData id="6.000000" name="中级治疗器" sort="6.000000" prefab="HealingGen_1" icon="Equipment08_mesh" price="250000.000000" skill="11.000000" effect="治疗自己和附近的友军" />
+    <EquipmentData id="7.000000" name="高级治疗器" sort="7.000000" prefab="HealingGen_2" icon="Equipment09_mesh" price="400000.000000" skill="11.000000" effect="治疗自己和附近的友军" />
+    <EquipmentData id="8.000000" name="初级力场发生器" sort="8.000000" prefab="ForceField_0" icon="Equipment10_mesh" price="180000.000000" skill="12.000000" effect="产生一个抵挡伤害的力场" />
+    <EquipmentData id="9.000000" name="中级力场发生器" sort="9.000000" prefab="ForceField_1" icon="Equipment11_mesh" price="330000.000000" skill="12.000000" effect="产生一个抵挡伤害的力场" />
+    <EquipmentData id="10.000000" name="高级力场发生器" sort="10.000000" prefab="ForceField_2" icon="Equipment12_mesh" price="450000.000000" skill="12.000000" effect="产生一个抵挡伤害的力场" />
+    <EquipmentData id="11.000000" name="初级神风炸弹" sort="11.000000" prefab="Dynamite_0" icon="Equipment16" price="75000.000000" skill="14.000000" effect="自爆机甲对附近的敌人造成伤害" />
+    <EquipmentData id="12.000000" name="中级神风炸弹" sort="12.000000" prefab="Dynamite_1" icon="Equipment17" price="120000.000000" skill="14.000000" effect="自爆机甲对附近的敌人造成伤害" />
+    <EquipmentData id="13.000000" name="高级神风炸弹" sort="13.000000" prefab="Dynamite_2" icon="Equipment18" price="200000.000000" skill="14.000000" effect="自爆机甲对附近的敌人造成伤害" />
+    <EquipmentData id="14.000000" name="初级地雷" sort="14.000000" prefab="Miner_0" icon="Equipment19_mesh" price="40000.000000" skill="15.000000" effect="在当前位置丢下一个地雷" />
+    <EquipmentData id="15.000000" name="中级地雷" sort="15.000000" prefab="Miner_1" icon="Equipment20_mesh" price="150000.000000" skill="15.000000" effect="在当前位置丢下一个地雷" />
+    <EquipmentData id="16.000000" name="高级地雷" sort="16.000000" prefab="Miner_2" icon="Equipment21_mesh" price="400000.000000" skill="15.000000" effect="在当前位置丢下一个地雷" />
+    <EquipmentData id="17.000000" name="初级隐身装置" sort="17.000000" prefab="Hide_1" icon="Equipment22_mesh" price="120000.000000" skill="16.000000" effect="不攻击时无法被敌方发现" />
+    <EquipmentData id="18.000000" name="中级隐身装置" sort="18.000000" prefab="Hide_2" icon="Equipment23_mesh" price="200000.000000" skill="16.000000" effect="不攻击时无法被敌方发现" />
+    <EquipmentData id="19.000000" name="高级隐身装置" sort="19.000000" prefab="Hide_3" icon="Equipment24_mesh" price="300000.000000" skill="16.000000" effect="不攻击时无法被敌方发现" />
+</root>

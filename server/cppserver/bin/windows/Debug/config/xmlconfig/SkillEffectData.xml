@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <SkillEffectData id="0.000000" name="伤害" effName="" jointId="" />
+    <SkillEffectData id="1.000000" name="治疗" effName="Heal" jointId="101.000000" />
+    <SkillEffectData id="2.000000" name="自爆" effName="Explosion_self" jointId="" />
+    <SkillEffectData id="3.000000" name="瞬移" effName="" jointId="" />
+    <SkillEffectData id="4.000000" name="发射钩子" effName="" jointId="" />
+</root>

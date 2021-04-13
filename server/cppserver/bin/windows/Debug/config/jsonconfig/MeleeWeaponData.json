@@ -1,0 +1,10 @@
+{"root":[
+    {"id":0.000000, "name":"近战武器", "sort":0.000000, "prefab":"Sword_0", "icon":"MeleeWeapon03_mesh", "price":100000.000000, "dps":200.000000, "skill":7.000000, "sound_effect":"sword", "special_effect":},
+    {"id":1.000000, "name":"近战武器", "sort":1.000000, "prefab":"Sword_1", "icon":"MeleeWeapon07_mesh", "price":150000.000000, "dps":250.000000, "skill":7.000000, "sound_effect":"sword", "special_effect":},
+    {"id":2.000000, "name":"近战武器", "sort":2.000000, "prefab":"Sword_2", "icon":"MeleeWeapon10_mesh", "price":150000.000000, "dps":250.000000, "skill":7.000000, "sound_effect":"sword", "special_effect":},
+    {"id":3.000000, "name":"近战武器", "sort":3.000000, "prefab":"Sword_3", "icon":"MeleeWeapon04_mesh", "price":100000.000000, "dps":200.000000, "skill":7.000000, "sound_effect":"sword", "special_effect":},
+    {"id":4.000000, "name":"近战武器", "sort":4.000000, "prefab":"Sword_4", "icon":"MeleeWeapon06_mesh", "price":100000.000000, "dps":200.000000, "skill":7.000000, "sound_effect":"sword", "special_effect":},
+    {"id":5.000000, "name":"近战武器", "sort":5.000000, "prefab":"Sword_5", "icon":"MeleeWeapon09_mesh", "price":150000.000000, "dps":250.000000, "skill":7.000000, "sound_effect":"sword", "special_effect":},
+    {"id":6.000000, "name":"近战武器", "sort":6.000000, "prefab":"Sword_6", "icon":"MeleeWeapon13_mesh", "price":150000.000000, "dps":250.000000, "skill":7.000000, "sound_effect":"sword", "special_effect":},
+    {"id":7.000000, "name":"近战武器", "sort":7.000000, "prefab":"Sword_7", "icon":"RepairTool1", "price":200000.000000, "dps":300.000000, "skill":7.000000, "sound_effect":"sword", "special_effect":}
+]}

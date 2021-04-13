@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <SpecialWeaponData id="0.000000" name="前置圆锯1" price="1000.000000" dps="300.000000" range="50.000000" distance="0.000000" skill="20.000000" />
+    <SpecialWeaponData id="1.000000" name="前置圆锯2" price="1000.000000" dps="300.000000" range="50.000000" distance="0.000000" skill="20.000000" />
+    <SpecialWeaponData id="2.000000" name="前置圆锯3" price="1000.000000" dps="300.000000" range="50.000000" distance="0.000000" skill="20.000000" />
+    <SpecialWeaponData id="3.000000" name="前置圆锯4" price="1000.000000" dps="300.000000" range="50.000000" distance="0.000000" skill="20.000000" />
+    <SpecialWeaponData id="4.000000" name="前置圆锯5" price="1000.000000" dps="300.000000" range="50.000000" distance="0.000000" skill="20.000000" />
+    <SpecialWeaponData id="5.000000" name="前置圆锯6" price="1000.000000" dps="300.000000" range="50.000000" distance="0.000000" skill="20.000000" />
+    <SpecialWeaponData id="6.000000" name="前置圆锯7" price="1000.000000" dps="300.000000" range="50.000000" distance="0.000000" skill="20.000000" />
+    <SpecialWeaponData id="7.000000" name="环形圆锯1" price="1000.000000" dps="300.000000" range="50.000000" distance="0.000000" skill="20.000000" />
+    <SpecialWeaponData id="8.000000" name="环形圆锯2" price="1000.000000" dps="300.000000" range="50.000000" distance="0.000000" skill="20.000000" />
+    <SpecialWeaponData id="9.000000" name="环形圆锯3" price="1000.000000" dps="300.000000" range="50.000000" distance="0.000000" skill="20.000000" />
+    <SpecialWeaponData id="10.000000" name="环形圆锯4" price="1000.000000" dps="300.000000" range="50.000000" distance="0.000000" skill="20.000000" />
+    <SpecialWeaponData id="11.000000" name="环形圆锯5" price="1000.000000" dps="300.000000" range="50.000000" distance="0.000000" skill="20.000000" />
+    <SpecialWeaponData id="12.000000" name="锋利牙齿1" price="1000.000000" dps="300.000000" range="50.000000" distance="0.000000" skill="21.000000" />
+    <SpecialWeaponData id="13.000000" name="锋利牙齿2" price="1000.000000" dps="300.000000" range="50.000000" distance="0.000000" skill="21.000000" />
+    <SpecialWeaponData id="14.000000" name="锋利牙齿3" price="1000.000000" dps="300.000000" range="50.000000" distance="0.000000" skill="21.000000" />
+    <SpecialWeaponData id="15.000000" name="锋利牙齿4" price="1000.000000" dps="300.000000" range="50.000000" distance="0.000000" skill="21.000000" />
+</root>

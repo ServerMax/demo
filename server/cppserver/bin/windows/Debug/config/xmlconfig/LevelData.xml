@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <LevelData id="0.000000" name="关卡1" prefabName="level1" sdfName="level01" baseHeight="13.000000" gameMode="0.000000" weapons="1,2,3" smallmech="" baseAward="1000.000000" unlockMech="1000.000000" isTeaching="1.000000" enemyRebornInv="8.000000" />
+    <LevelData id="1.000000" name="关卡2" prefabName="level2" sdfName="level02" baseHeight="6.000000" gameMode="0.000000" weapons="1,2,3" smallmech="" baseAward="1500.000000" unlockMech="" isTeaching="1.000000" enemyRebornInv="8.000000" />
+    <LevelData id="2.000000" name="关卡3" prefabName="level3" sdfName="level03" baseHeight="0.000000" gameMode="0.000000" weapons="4,4" smallmech="1000,2,2" baseAward="2000.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="8.000000" />
+    <LevelData id="3.000000" name="关卡4" prefabName="level4" sdfName="level04" baseHeight="3.000000" gameMode="0.000000" weapons="4,4" smallmech="1000,2,2;
+1001,0,1" baseAward="2500.000000" unlockMech="1001.000000" isTeaching="0.000000" enemyRebornInv="8.000000" />
+    <LevelData id="4.000000" name="关卡5" prefabName="level5" sdfName="level05" baseHeight="0.000000" gameMode="1.000000" weapons="1,2,3" smallmech="" baseAward="3000.000000" unlockMech="" isTeaching="1.000000" enemyRebornInv="8.000000" />
+    <LevelData id="5.000000" name="关卡6" prefabName="level6" sdfName="level06" baseHeight="0.000000" gameMode="1.000000" weapons="5.000000" smallmech="1000,2,2" baseAward="3500.000000" unlockMech="1002.000000" isTeaching="0.000000" enemyRebornInv="7.000000" />
+    <LevelData id="6.000000" name="关卡7" prefabName="level7" sdfName="level07" baseHeight="0.000000" gameMode="1.000000" weapons="5.000000" smallmech="1000,2,2;
+1001,1,1" baseAward="4000.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="9.000000" />
+    <LevelData id="7.000000" name="关卡8" prefabName="level8" sdfName="level08" baseHeight="0.000000" gameMode="0.000000" weapons="6.000000" smallmech="1000,2,1;
+1001,1,1;
+1012,2,1" baseAward="4500.000000" unlockMech="1003.000000" isTeaching="0.000000" enemyRebornInv="8.000000" />
+    <LevelData id="8.000000" name="关卡9" prefabName="level9" sdfName="level09" baseHeight="0.000000" gameMode="0.000000" weapons="6.000000" smallmech="1000,2,2;
+1001,1,1;
+1013,2,1" baseAward="5000.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="7.500000" />
+    <LevelData id="9.000000" name="关卡10" prefabName="level10" sdfName="level10" baseHeight="0.000000" gameMode="0.000000" weapons="7.000000" smallmech="1000,2,3;
+1001,1,2;
+1003,2,1" baseAward="5500.000000" unlockMech="1004.000000" isTeaching="0.000000" enemyRebornInv="7.000000" />
+    <LevelData id="10.000000" name="关卡11" prefabName="level11" sdfName="level11" baseHeight="0.000000" gameMode="0.000000" weapons="1,2,5" smallmech="1000,2,2;
+1001,1,1;
+1002,1,1;
+1003,2,1" baseAward="6000.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="5.000000" />
+    <LevelData id="11.000000" name="关卡12" prefabName="level12" sdfName="level12" baseHeight="0.000000" gameMode="1.000000" weapons="1,2,5" smallmech="1000,2,2;
+1001,1,2;
+1002,1,1;
+1003,2,1" baseAward="6500.000000" unlockMech="1005.000000" isTeaching="0.000000" enemyRebornInv="5.000000" />
+    <LevelData id="12.000000" name="关卡13" prefabName="level13" sdfName="level13" baseHeight="0.240000" gameMode="1.000000" weapons="1,2,5" smallmech="1000,1,1;
+1001,2,2;
+1012,1,1;
+1013,2,1" baseAward="7000.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="5.000000" />
+    <LevelData id="13.000000" name="关卡14" prefabName="level14" sdfName="level14" baseHeight="3.490000" gameMode="1.000000" weapons="1,2,5" smallmech="1000,1,1;
+1001,1,1;
+1012,2,1;
+1013,2,2" baseAward="7500.000000" unlockMech="1006.000000" isTeaching="0.000000" enemyRebornInv="5.000000" />
+    <LevelData id="14.000000" name="关卡15" prefabName="level15" sdfName="level15" baseHeight="0.080000" gameMode="0.000000" weapons="1,2,5" smallmech="1000,1,2;
+1001,1,2;
+1002,2,2;
+1006,0,1" baseAward="8000.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="5.000000" />
+    <LevelData id="15.000000" name="关卡16" prefabName="level16" sdfName="level16" baseHeight="0.000000" gameMode="0.000000" weapons="1,2,5" smallmech="1000,2,2;
+1001,1,1;
+1002,1,1;
+1003,2,1" baseAward="8500.000000" unlockMech="1007.000000" isTeaching="0.000000" enemyRebornInv="5.000000" />
+    <LevelData id="16.000000" name="关卡17" prefabName="level17" sdfName="level17" baseHeight="0.000000" gameMode="0.000000" weapons="1,2,5" smallmech="1012,1,1;
+1013,2,2;
+1002,1,1;
+1003,2,1" baseAward="9000.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="5.000000" />
+    <LevelData id="17.000000" name="关卡18" prefabName="level18" sdfName="level18" baseHeight="0.080000" gameMode="0.000000" weapons="1,2,5" smallmech="1000,2,2;
+1012,1,2;
+1006,2,1;
+1007,1,1" baseAward="9500.000000" unlockMech="1008.000000" isTeaching="0.000000" enemyRebornInv="5.000000" />
+    <LevelData id="18.000000" name="关卡19" prefabName="level19" sdfName="level19" baseHeight="0.000000" gameMode="0.000000" weapons="1,2,5" smallmech="1000,1,3;
+1001,2,1;
+1002,1,1;
+1003,2,1" baseAward="10000.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="5.000000" />
+    <LevelData id="19.000000" name="关卡20" prefabName="level20" sdfName="level20" baseHeight="3.160000" gameMode="0.000000" weapons="1,2,5" smallmech="1000,1,2;
+1001,1,1;
+1012,2,1;
+1013,2,2" baseAward="10500.000000" unlockMech="1009.000000" isTeaching="0.000000" enemyRebornInv="5.000000" />
+    <LevelData id="20.000000" name="关卡21" prefabName="level21" sdfName="level21" baseHeight="0.000000" gameMode="2.000000" weapons="1,2,5" smallmech="" baseAward="11000.000000" unlockMech="" isTeaching="1.000000" enemyRebornInv="5.000000" />
+    <LevelData id="21.000000" name="关卡22" prefabName="level22" sdfName="level22" baseHeight="0.100000" gameMode="2.000000" weapons="1,2,5" smallmech="1000,1,1;
+1001,1,2;
+1012,2,1;
+1013,2,2" baseAward="11500.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="5.000000" />
+    <LevelData id="22.000000" name="关卡23" prefabName="level23" sdfName="level23" baseHeight="0.100000" gameMode="2.000000" weapons="1,2,5" smallmech="1000,1,2;
+1001,1,1;
+1006,2,2;
+1013,2,1" baseAward="12000.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="5.000000" />
+    <LevelData id="23.000000" name="关卡24" prefabName="level24" sdfName="level24" baseHeight="0.080000" gameMode="2.000000" weapons="1,2,5" smallmech="1000,1,1;
+1001,1,1;
+1006,2,2;
+1007,2,2" baseAward="12500.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="5.000000" />
+    <LevelData id="24.000000" name="关卡25" prefabName="level25" sdfName="level25" baseHeight="0.080000" gameMode="2.000000" weapons="1,2,5" smallmech="1000,1,2;
+1001,1,1;
+1012,2,2;
+1006,2,3" baseAward="13000.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="5.000000" />
+    <LevelData id="25.000000" name="关卡26" prefabName="level26" sdfName="level26" baseHeight="4.400000" gameMode="2.000000" weapons="1,2,5" smallmech="1000,1,1;
+1001,1,1;
+1012,2,3;
+1013,2,2" baseAward="13500.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="5.000000" />
+    <LevelData id="26.000000" name="关卡27" prefabName="level27" sdfName="level27" baseHeight="4.400000" gameMode="2.000000" weapons="1,2,5" smallmech="1000,1,1;
+1001,1,2;
+1012,2,1;
+1006,2,2" baseAward="14000.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="5.000000" />
+    <LevelData id="27.000000" name="关卡28" prefabName="level28" sdfName="level28" baseHeight="4.100000" gameMode="2.000000" weapons="1,2,5" smallmech="1000,1,1;
+1001,1,1;
+1012,2,2;
+1006,2,2" baseAward="14500.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="5.000000" />
+    <LevelData id="28.000000" name="关卡29" prefabName="level29" sdfName="level29" baseHeight="4.100000" gameMode="2.000000" weapons="1,2,5" smallmech="1000,1,1;
+1003,1,2;
+1002,2,2;
+1013,2,2" baseAward="15000.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="5.000000" />
+    <LevelData id="29.000000" name="关卡30" prefabName="level30" sdfName="level30" baseHeight="3.000000" gameMode="2.000000" weapons="1,2,5" smallmech="1006,1,3;
+1007,1,2;
+1002,2,2;
+1003,2,2" baseAward="15500.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="5.000000" />
+    <LevelData id="1000.000000" name="关卡1000" prefabName="level1000" sdfName="level1000" baseHeight="0.000000" gameMode="0.000000" weapons="4,4" smallmech="1000,2,2" baseAward="2000.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="8.000000" />
+    <LevelData id="1100.000000" name="关卡1100" prefabName="level1100" sdfName="level1100" baseHeight="0.000000" gameMode="1.000000" weapons="1,2,3" smallmech="1000,2,2;
+1001,1,1" baseAward="4000.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="9.000000" />
+    <LevelData id="1200.000000" name="关卡1200" prefabName="level1200" sdfName="level1200" baseHeight="0.080000" gameMode="2.000000" weapons="1,2,5" smallmech="1000,1,2;
+1001,1,1;
+1012,2,2;
+1006,2,3" baseAward="13000.000000" unlockMech="" isTeaching="0.000000" enemyRebornInv="5.000000" />
+</root>

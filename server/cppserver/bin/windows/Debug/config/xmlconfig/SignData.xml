@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <SignData id="1.000000" day="第一天" reward_list="0,1,10000" />
+    <SignData id="2.000000" day="第二天" reward_list="2,9,1" />
+    <SignData id="3.000000" day="第三天" reward_list="0,2,20000" />
+    <SignData id="4.000000" day="第四天" reward_list="0,2,30000" />
+    <SignData id="5.000000" day="第五天" reward_list="0,3,50000" />
+    <SignData id="6.000000" day="第六天" reward_list="0,3,80000" />
+    <SignData id="7.000000" day="第七天" reward_list="1,7,1" />
+</root>

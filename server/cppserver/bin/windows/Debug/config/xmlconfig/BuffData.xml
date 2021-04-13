@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <BuffData id="0.000000" name="攻击提升" canOverlying="1.000000" effName="AttackUp" jointId="101.000000" />
+    <BuffData id="1.000000" name="速度提升" canOverlying="1.000000" effName="Speedup" jointId="4.000000" />
+    <BuffData id="2.000000" name="无敌" canOverlying="0.000000" effName="Invinsible" jointId="100.000000" />
+    <BuffData id="3.000000" name="隐身" canOverlying="0.000000" effName="" jointId="" />
+    <BuffData id="4.000000" name="力场护盾" canOverlying="0.000000" effName="Shield" jointId="7.000000" />
+</root>

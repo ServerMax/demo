@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <car id="10001.000000" car_type="1.000000" language_id="90001.000000" language="新高尔夫" car_unlock_id="-1.000000" unlock_level="-1.000000" unlock_cost="-1.000000" />
+    <car id="10002.000000" car_type="2.000000" language_id="90002.000000" language="二手卡车" car_unlock_id="-1.000000" unlock_level="-1.000000" unlock_cost="-1.000000" />
+    <car id="10003.000000" car_type="3.000000" language_id="90003.000000" language="二手出租" car_unlock_id="-1.000000" unlock_level="-1.000000" unlock_cost="-1.000000" />
+</root>

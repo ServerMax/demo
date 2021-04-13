@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <language id="10001.000000" chinese="从北京大学抵达天安门" />
+    <language id="10002.000000" chinese="从天安门抵达全聚德（前门店）" />
+    <language id="10003.000000" chinese="从全聚德抵达国家大剧院" />
+    <language id="10004.000000" chinese="从国家大剧院抵达三里屯太古里" />
+    <language id="10005.000000" chinese="从三里屯太古里附近运送货物抵达鸟巢" />
+    <language id="10006.000000" chinese="从鸟巢附近运送货物抵达北京大学" />
+    <language id="10007.000000" chinese="从北京大学附近运送货物抵达王府井百货" />
+    <language id="10008.000000" chinese="在王府井接上乘客抵达北京大学" />
+    <language id="10009.000000" chinese="在北京大学接上乘客抵达水立方" />
+    <language id="10010.000000" chinese="在水立方接上乘客抵达首都机场" />
+    <language id="90001.000000" chinese="新高尔夫" />
+    <language id="90002.000000" chinese="二手卡车" />
+    <language id="90003.000000" chinese="二手出租" />
+</root>

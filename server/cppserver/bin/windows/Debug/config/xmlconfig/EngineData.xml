@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <EngineData id="0.000000" name="初级助推器" sort="0.000000" prefab="Boosters_0" icon="Engines01_mesh" price="150000.000000" skill="18.000000" effect="使机甲短时间内速度提升" />
+    <EngineData id="1.000000" name="中级助推器" sort="1.000000" prefab="Boosters_1" icon="Engines02_mesh" price="200000.000000" skill="18.000000" effect="使机甲短时间内速度提升" />
+    <EngineData id="2.000000" name="高级助推器" sort="2.000000" prefab="Boosters_2" icon="Engines03_mesh" price="250000.000000" skill="18.000000" effect="使机甲短时间内速度提升" />
+    <EngineData id="3.000000" name="脉冲助力器1" sort="3.000000" prefab="ImpluseBoosters_0" icon="Engines08_mesh" price="300000.000000" skill="19.000000" effect="使机甲获得闪避能力" />
+    <EngineData id="4.000000" name="脉冲助力器2" sort="4.000000" prefab="ImpluseBoosters_1" icon="Engines09_mesh" price="400000.000000" skill="19.000000" effect="使机甲获得闪避能力" />
+    <EngineData id="5.000000" name="脉冲助力器3" sort="5.000000" prefab="ImpluseBoosters_2" icon="Engines10_mesh" price="500000.000000" skill="19.000000" effect="使机甲获得闪避能力" />
+</root>

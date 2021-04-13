@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <MechColorData id="0.000000" name="我方蓝" widthRatio="0.062500" heightRatio="0.062500" offsetX="0.062500" offsetY="0.000000" />
+    <MechColorData id="1.000000" name="敌方红" widthRatio="0.062500" heightRatio="0.187500" offsetX="0.062500" offsetY="0.000000" />
+    <MechColorData id="2.000000" name="黑白" widthRatio="0.062500" heightRatio="0.125000" offsetX="0.000000" offsetY="0.000000" />
+    <MechColorData id="3.000000" name="蓝" widthRatio="0.062500" heightRatio="0.125000" offsetX="0.375000" offsetY="0.937500" />
+    <MechColorData id="4.000000" name="绿" widthRatio="0.062500" heightRatio="0.125000" offsetX="0.937500" offsetY="0.312500" />
+</root>

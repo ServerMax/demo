@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <ArmorData id="0.000000" name="装甲" sort="0.000000" prefab="player2armor_01" icon="MechArmor01_mesh" price="30000.000000" life="30.000000" skill="" effect="" />
+    <ArmorData id="1.000000" name="装甲" sort="1.000000" prefab="player2armor_02" icon="MechArmor02_mesh" price="32000.000000" life="32.000000" skill="" effect="" />
+    <ArmorData id="2.000000" name="装甲" sort="2.000000" prefab="player2armor_03" icon="MechArmor03_mesh" price="34000.000000" life="34.000000" skill="" effect="" />
+    <ArmorData id="3.000000" name="装甲" sort="3.000000" prefab="player2armor_04" icon="MechArmor04_mesh" price="36000.000000" life="36.000000" skill="" effect="" />
+    <ArmorData id="4.000000" name="装甲" sort="4.000000" prefab="player2armor_05" icon="MechArmor10_mesh" price="38000.000000" life="38.000000" skill="" effect="" />
+    <ArmorData id="5.000000" name="装甲" sort="5.000000" prefab="player2armor_06" icon="MechArmor07_mesh" price="40000.000000" life="40.000000" skill="" effect="" />
+    <ArmorData id="6.000000" name="装甲" sort="6.000000" prefab="player2armor_07" icon="MechArmor09_mesh" price="42000.000000" life="42.000000" skill="" effect="" />
+    <ArmorData id="7.000000" name="装甲" sort="7.000000" prefab="player2armor_08" icon="MechArmor08_mesh" price="44000.000000" life="44.000000" skill="" effect="" />
+    <ArmorData id="8.000000" name="装甲" sort="8.000000" prefab="player2armor_09" icon="MechArmor06_mesh" price="46000.000000" life="46.000000" skill="" effect="" />
+    <ArmorData id="9.000000" name="装甲" sort="9.000000" prefab="player2armor_10" icon="MechArmor05_mesh" price="48000.000000" life="48.000000" skill="" effect="" />
+    <ArmorData id="10.000000" name="装甲" sort="10.000000" prefab="player3armor_01" icon="PlayerBuggyArmor1_mesh" price="30000.000000" life="30.000000" skill="" effect="" />
+    <ArmorData id="11.000000" name="装甲" sort="11.000000" prefab="player3armor_02" icon="PlayerBuggyArmor2_mesh" price="32000.000000" life="32.000000" skill="" effect="" />
+    <ArmorData id="12.000000" name="装甲" sort="12.000000" prefab="player3armor_03" icon="PlayerBuggyArmor3_mesh" price="34000.000000" life="34.000000" skill="" effect="" />
+    <ArmorData id="13.000000" name="装甲" sort="13.000000" prefab="player3armor_04" icon="PlayerBuggyArmor4_mesh" price="36000.000000" life="36.000000" skill="" effect="" />
+    <ArmorData id="14.000000" name="装甲" sort="14.000000" prefab="player3armor_05" icon="PlayerBuggyArmor5_mesh" price="38000.000000" life="38.000000" skill="" effect="" />
+    <ArmorData id="15.000000" name="装甲" sort="15.000000" prefab="player6armor_01" icon="ScorpionArmor1_mesh" price="40000.000000" life="40.000000" skill="" effect="" />
+    <ArmorData id="16.000000" name="装甲" sort="16.000000" prefab="player6armor_02" icon="ScorpionArmor2_mesh" price="45000.000000" life="45.000000" skill="" effect="" />
+    <ArmorData id="17.000000" name="装甲" sort="17.000000" prefab="player6armor_03" icon="ScorpionArmor3_mesh" price="50000.000000" life="50.000000" skill="" effect="" />
+    <ArmorData id="18.000000" name="装甲" sort="18.000000" prefab="player5armor_01" icon="QuadArmor01_mesh" price="32000.000000" life="32.000000" skill="" effect="" />
+    <ArmorData id="19.000000" name="装甲" sort="19.000000" prefab="player5armor_02" icon="QuadArmor02_mesh" price="34000.000000" life="34.000000" skill="" effect="" />
+    <ArmorData id="20.000000" name="装甲" sort="20.000000" prefab="player5armor_03" icon="QuadArmor03_mesh" price="36000.000000" life="36.000000" skill="" effect="" />
+    <ArmorData id="21.000000" name="装甲" sort="21.000000" prefab="player5armor_04" icon="QuadArmor04_mesh" price="38000.000000" life="38.000000" skill="" effect="" />
+    <ArmorData id="22.000000" name="装甲" sort="22.000000" prefab="player5armor_05" icon="QuadArmor05_mesh" price="40000.000000" life="40.000000" skill="" effect="" />
+    <ArmorData id="23.000000" name="装甲" sort="23.000000" prefab="player5armor_06" icon="QuadArmor06_mesh" price="42000.000000" life="42.000000" skill="" effect="" />
+    <ArmorData id="24.000000" name="装甲" sort="24.000000" prefab="player5armor_07" icon="QuadArmor07_mesh" price="44000.000000" life="44.000000" skill="" effect="" />
+    <ArmorData id="25.000000" name="装甲" sort="25.000000" prefab="player5armor_08" icon="QuadArmor08_mesh" price="46000.000000" life="46.000000" skill="" effect="" />
+    <ArmorData id="26.000000" name="装甲" sort="26.000000" prefab="player5armor_09" icon="QuadArmor09_mesh" price="48000.000000" life="48.000000" skill="" effect="" />
+    <ArmorData id="27.000000" name="装甲" sort="27.000000" prefab="player5armor_10" icon="QuadArmor10_mesh" price="50000.000000" life="50.000000" skill="" effect="" />
+    <ArmorData id="28.000000" name="护盾" sort="28.000000" prefab="player7armor_01" icon="RobotArmor07_mesh" price="100000.000000" life="50.000000" skill="13.000000" effect="" />
+    <ArmorData id="29.000000" name="护盾" sort="29.000000" prefab="player7armor_02" icon="RobotArmor08_mesh" price="100000.000000" life="50.000000" skill="13.000000" effect="" />
+    <ArmorData id="30.000000" name="护盾" sort="30.000000" prefab="player7armor_03" icon="RobotArmor01_mesh" price="50000.000000" life="50.000000" skill="13.000000" effect="" />
+    <ArmorData id="31.000000" name="护盾" sort="31.000000" prefab="player7armor_04" icon="RobotArmor10_mesh" price="100000.000000" life="50.000000" skill="13.000000" effect="" />
+    <ArmorData id="32.000000" name="护盾" sort="32.000000" prefab="player7armor_05" icon="RobotArmor02_mesh" price="80000.000000" life="50.000000" skill="13.000000" effect="" />
+    <ArmorData id="33.000000" name="护盾" sort="33.000000" prefab="player7armor_06" icon="RobotArmor04_mesh" price="100000.000000" life="50.000000" skill="13.000000" effect="" />
+    <ArmorData id="34.000000" name="护盾" sort="34.000000" prefab="player7armor_07" icon="RobotArmor03_mesh" price="100000.000000" life="50.000000" skill="13.000000" effect="" />
+    <ArmorData id="35.000000" name="护盾" sort="35.000000" prefab="player7armor_08" icon="RobotArmor05_mesh" price="100000.000000" life="50.000000" skill="13.000000" effect="" />
+    <ArmorData id="36.000000" name="护盾" sort="36.000000" prefab="player7armor_09" icon="RobotArmor06_mesh" price="100000.000000" life="50.000000" skill="13.000000" effect="" />
+    <ArmorData id="37.000000" name="护盾" sort="37.000000" prefab="player7armor_10" icon="RobotArmor09_mesh" price="100000.000000" life="50.000000" skill="13.000000" effect="" />
+</root>

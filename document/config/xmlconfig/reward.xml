@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <reward id="10001.000000" reward_type="1.000000" raward_numbre="200.000000" />
+    <reward id="10002.000000" reward_type="2.000000" raward_numbre="6000.000000" />
+    <reward id="10003.000000" reward_type="1.000000" raward_numbre="300.000000" />
+    <reward id="10004.000000" reward_type="2.000000" raward_numbre="7000.000000" />
+    <reward id="10005.000000" reward_type="1.000000" raward_numbre="400.000000" />
+    <reward id="10006.000000" reward_type="2.000000" raward_numbre="8000.000000" />
+    <reward id="10007.000000" reward_type="1.000000" raward_numbre="500.000000" />
+    <reward id="10008.000000" reward_type="2.000000" raward_numbre="9000.000000" />
+    <reward id="10009.000000" reward_type="1.000000" raward_numbre="600.000000" />
+    <reward id="10010.000000" reward_type="2.000000" raward_numbre="10000.000000" />
+</root>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <OpenChestData id="0.000000" name="转盘宝箱" obj1="15,0,10000" obj2="20,0,20000" obj3="20,0,30000" obj4="20,0,40000" obj5="15,0,50000" obj6="2,2,5" obj7="2,2,7" obj8="2,2,10" obj9="2,3,14" obj10="2,4,6" />
+    <OpenChestData id="1.000000" name="累计过关宝箱" obj1="15,0,10000" obj2="20,0,20000" obj3="20,0,30000" obj4="20,0,40000" obj5="15,0,50000" obj6="2,2,5" obj7="2,2,7" obj8="2,2,10" obj9="2,3,14" obj10="2,4,6" />
+</root>

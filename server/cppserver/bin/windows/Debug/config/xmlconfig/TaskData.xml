@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <TaskData id="1.000000" type="0.000000" param_list="20.000000" reward_list="0,1,5000" description="击杀{p0}个敌方机甲" />
+    <TaskData id="2.000000" type="0.000000" param_list="50.000000" reward_list="0,2,10000" description="击杀{p0}个敌方机甲" />
+    <TaskData id="3.000000" type="0.000000" param_list="100.000000" reward_list="0,3,20000" description="击杀{p0}个敌方机甲" />
+    <TaskData id="4.000000" type="3.000000" param_list="5.000000" reward_list="0,1,5000" description="完成{p0}场战斗" />
+    <TaskData id="5.000000" type="3.000000" param_list="10.000000" reward_list="0,2,10000" description="完成{p0}场战斗" />
+    <TaskData id="6.000000" type="3.000000" param_list="20.000000" reward_list="0,3,20000" description="完成{p0}场战斗" />
+    <TaskData id="7.000000" type="4.000000" param_list="2.000000" reward_list="0,1,5000" description="夺旗模式胜利{p0}次" />
+    <TaskData id="8.000000" type="4.000000" param_list="5.000000" reward_list="0,2,10000" description="夺旗模式胜利{p0}次" />
+    <TaskData id="9.000000" type="4.000000" param_list="10.000000" reward_list="0,3,20000" description="夺旗模式胜利{p0}次" />
+    <TaskData id="10.000000" type="5.000000" param_list="2.000000" reward_list="0,1,5000" description="控制点模式胜利{p0}次" />
+    <TaskData id="11.000000" type="5.000000" param_list="5.000000" reward_list="0,2,10000" description="控制点模式胜利{p0}次" />
+    <TaskData id="12.000000" type="5.000000" param_list="10.000000" reward_list="0,3,20000" description="控制点模式胜利{p0}次" />
+    <TaskData id="13.000000" type="6.000000" param_list="2.000000" reward_list="0,1,5000" description="运输炸弹模式胜利{p0}次" />
+    <TaskData id="14.000000" type="6.000000" param_list="5.000000" reward_list="0,2,10000" description="运输炸弹模式胜利{p0}次" />
+    <TaskData id="15.000000" type="6.000000" param_list="10.000000" reward_list="0,3,20000" description="运输炸弹模式胜利{p0}次" />
+    <TaskData id="16.000000" type="2.000000" param_list="1.000000" reward_list="0,1,10000" description="观看广告{p0}次" />
+    <TaskData id="17.000000" type="2.000000" param_list="2.000000" reward_list="0,2,20000" description="观看广告{p0}次" />
+    <TaskData id="18.000000" type="2.000000" param_list="5.000000" reward_list="0,3,50000" description="观看广告{p0}次" />
+</root>

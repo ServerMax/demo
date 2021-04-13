@@ -1,0 +1,5 @@
+{"root":[
+    {"id":0.000000, "name":"初级增强装置", "sort":0.000000, "prefab":"WpnBooster_0", "icon":"WeaponModifier01_mesh", "price":25000.000000, "skill":9.000000, "effect":"武器威力提升"},
+    {"id":1.000000, "name":"中级增强装置", "sort":1.000000, "prefab":"WpnBooster_1", "icon":"WeaponModifier03_mesh", "price":45000.000000, "skill":9.000000, "effect":"武器威力提升"},
+    {"id":2.000000, "name":"高级增强装置", "sort":2.000000, "prefab":"WpnBooster_2", "icon":"WeaponModifier05_mesh", "price":125000.000000, "skill":9.000000, "effect":"武器威力提升"}
+]}

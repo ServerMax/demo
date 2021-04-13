@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <LotteryData id="1.000000" reward_list="0,1,10000" weight="40.000000" />
+    <LotteryData id="2.000000" reward_list="4,5,1" weight="4.000000" />
+    <LotteryData id="3.000000" reward_list="0,2,20000" weight="30.000000" />
+    <LotteryData id="4.000000" reward_list="2,10,1" weight="4.000000" />
+    <LotteryData id="5.000000" reward_list="0,3,30000" weight="20.000000" />
+    <LotteryData id="6.000000" reward_list="3,4,1" weight="2.000000" />
+</root>

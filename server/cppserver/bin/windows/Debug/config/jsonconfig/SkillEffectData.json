@@ -1,0 +1,7 @@
+{"root":[
+    {"id":0.000000, "name":"伤害", "effName":, "jointId":},
+    {"id":1.000000, "name":"治疗", "effName":"Heal", "jointId":101.000000},
+    {"id":2.000000, "name":"自爆", "effName":"Explosion_self", "jointId":},
+    {"id":3.000000, "name":"瞬移", "effName":, "jointId":},
+    {"id":4.000000, "name":"发射钩子", "effName":, "jointId":}
+]}

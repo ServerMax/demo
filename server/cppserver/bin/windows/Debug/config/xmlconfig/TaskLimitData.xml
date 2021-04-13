@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <TaskLimitData id="1.000000" type="0.000000" param_list="20.000000" description="击杀{p0}个敌方机甲" exp="25.000000" />
+    <TaskLimitData id="2.000000" type="0.000000" param_list="50.000000" description="击杀{p0}个敌方机甲" exp="50.000000" />
+    <TaskLimitData id="3.000000" type="0.000000" param_list="100.000000" description="击杀{p0}个敌方机甲" exp="75.000000" />
+    <TaskLimitData id="4.000000" type="3.000000" param_list="5.000000" description="完成{p0}场战斗" exp="25.000000" />
+    <TaskLimitData id="5.000000" type="3.000000" param_list="10.000000" description="完成{p0}场战斗" exp="50.000000" />
+    <TaskLimitData id="6.000000" type="3.000000" param_list="20.000000" description="完成{p0}场战斗" exp="75.000000" />
+    <TaskLimitData id="7.000000" type="4.000000" param_list="2.000000" description="夺旗模式胜利{p0}次" exp="25.000000" />
+    <TaskLimitData id="8.000000" type="4.000000" param_list="5.000000" description="夺旗模式胜利{p0}次" exp="50.000000" />
+    <TaskLimitData id="9.000000" type="4.000000" param_list="10.000000" description="夺旗模式胜利{p0}次" exp="75.000000" />
+    <TaskLimitData id="10.000000" type="5.000000" param_list="2.000000" description="控制点模式胜利{p0}次" exp="25.000000" />
+    <TaskLimitData id="11.000000" type="5.000000" param_list="5.000000" description="控制点模式胜利{p0}次" exp="50.000000" />
+    <TaskLimitData id="12.000000" type="5.000000" param_list="10.000000" description="控制点模式胜利{p0}次" exp="75.000000" />
+    <TaskLimitData id="13.000000" type="6.000000" param_list="2.000000" description="运输炸弹模式胜利{p0}次" exp="25.000000" />
+    <TaskLimitData id="14.000000" type="6.000000" param_list="5.000000" description="运输炸弹模式胜利{p0}次" exp="50.000000" />
+    <TaskLimitData id="15.000000" type="6.000000" param_list="10.000000" description="运输炸弹模式胜利{p0}次" exp="75.000000" />
+</root>
